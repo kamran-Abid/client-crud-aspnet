@@ -45,4 +45,3 @@ D:\ZK Space\ASPNET practice\Crud store\obj\Debug\netcoreapp3.1\Razor\Pages\Clien
 D:\ZK Space\ASPNET practice\Crud store\obj\Debug\netcoreapp3.1\Razor\Pages\Clients\Edit.cshtml.g.cs
 D:\ZK Space\ASPNET practice\Crud store\obj\Debug\netcoreapp3.1\Razor\Pages\Clients\Delete.cshtml.g.cs
 D:\ZK Space\ASPNET practice\Crud store\obj\Debug\netcoreapp3.1\Crud store.csprojAssemblyReference.cache
-D:\ZK Space\ASPNET practice\Crud store\obj\Debug\netcoreapp3.1\Razor\Pages\Clients\checkdel.cshtml.g.cs

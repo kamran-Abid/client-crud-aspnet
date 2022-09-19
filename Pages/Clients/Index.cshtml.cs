@@ -16,7 +16,11 @@ namespace Crud_store.Pages.Clients
         {
             try
             {
-                String connectionString = "Data Source=.\\sqlexpress;Initial Catalog=crudStore;Integrated Security=True";
+                // Data Source=DESKTOP-P65HT14\SQLEXPRESS;Integrated Security=True
+                // Data Source=.\sqlexpress;Initial Catalog=crudStore;Integrated Security=True
+
+                // String connectionString = "Data Source=.\\sqlexpress;Initial Catalog=crudStore;Integrated Security=True";
+                String connectionString = @"Data Source=DESKTOP-P65HT14\SQLEXPRESS;initial Catalog=ZKAbid_Db; Integrated Security=True";
                 using(SqlConnection connection = new SqlConnection(connectionString))
                 {
                     connection.Open();
@@ -42,12 +46,11 @@ namespace Crud_store.Pages.Clients
                         }
                     }
                 }
-                Console.WriteLine("Console by me is running");
                
             } 
             catch(Exception ex)
             {
-                error_msg = ex.Message;
+                error_msg = "Db error "+ex.Message;
                 return;
             }
         }

@@ -32,7 +32,7 @@ namespace Crud_store.Pages.Clients
             // save new client in database
             try
             {
-                String connectionString = "Data Source=.\\sqlexpress;Initial Catalog=crudStore;Integrated Security=True";
+                String connectionString = @"Data Source=DESKTOP-P65HT14\SQLEXPRESS;initial Catalog=ZKAbid_Db; Integrated Security=True";
                 using (SqlConnection conn = new SqlConnection(connectionString))
                 {
                     conn.Open();
@@ -66,7 +66,7 @@ namespace Crud_store.Pages.Clients
 
             success_msg = "New client added successfully.";
 
-            Response.Redirect("/Clients/Index");
+            Response.Redirect("/Clients");
         }
     }
 }

@@ -8,7 +8,7 @@
     {
         String id = Request.Query["id"];
 
-        string connectionString = "Data Source=.\\sqlexpress;Initial Catalog=crudStore;Integrated Security=True";
+        string connectionString = @"Data Source=DESKTOP-P65HT14\SQLEXPRESS;initial Catalog=ZKAbid_Db; Integrated Security=True";
         using (SqlConnection connection = new SqlConnection(connectionString))
         {
             connection.Open();
@@ -26,5 +26,5 @@
         Response.Redirect("/Index");
         return;
     }
-    Response.Redirect("/Clients/Index");
+    Response.Redirect("/Clients");
 }
