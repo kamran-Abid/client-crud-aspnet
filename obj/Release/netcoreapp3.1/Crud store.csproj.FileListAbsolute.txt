@@ -1,0 +1,48 @@
+D:\ZK Space\ASPNET practice\Crud store\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\ZK Space\ASPNET practice\Crud store\bin\Release\netcoreapp3.1\appsettings.json
+D:\ZK Space\ASPNET practice\Crud store\bin\Release\netcoreapp3.1\Crud store.exe
+D:\ZK Space\ASPNET practice\Crud store\bin\Release\netcoreapp3.1\Crud store.deps.json
+D:\ZK Space\ASPNET practice\Crud store\bin\Release\netcoreapp3.1\Crud store.runtimeconfig.json
+D:\ZK Space\ASPNET practice\Crud store\bin\Release\netcoreapp3.1\Crud store.runtimeconfig.dev.json
+D:\ZK Space\ASPNET practice\Crud store\bin\Release\netcoreapp3.1\Crud store.dll
+D:\ZK Space\ASPNET practice\Crud store\bin\Release\netcoreapp3.1\Crud store.pdb
+D:\ZK Space\ASPNET practice\Crud store\bin\Release\netcoreapp3.1\Crud store.Views.dll
+D:\ZK Space\ASPNET practice\Crud store\bin\Release\netcoreapp3.1\Crud store.Views.pdb
+D:\ZK Space\ASPNET practice\Crud store\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+D:\ZK Space\ASPNET practice\Crud store\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ZK Space\ASPNET practice\Crud store\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ZK Space\ASPNET practice\Crud store\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ZK Space\ASPNET practice\Crud store\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ZK Space\ASPNET practice\Crud store\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Crud store.csprojAssemblyReference.cache
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Crud store.AssemblyInfoInputs.cache
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Crud store.AssemblyInfo.cs
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Crud store.csproj.CoreCompileInputs.cache
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Crud store.MvcApplicationPartsAssemblyInfo.cache
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Crud store.RazorAssemblyInfo.cache
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Crud store.RazorAssemblyInfo.cs
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\staticwebassets\Crud store.StaticWebAssets.Manifest.cache
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\staticwebassets\Crud store.StaticWebAssets.xml
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\scopedcss\bundle\Crud store.styles.css
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Crud store.TagHelpers.input.cache
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Crud store.TagHelpers.output.cache
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Crud store.RazorCoreGenerate.cache
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Razor\Pages\Clients\checkdel.cshtml.g.cs
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Razor\Pages\Clients\Create.cshtml.g.cs
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Razor\Pages\Clients\Delete.cshtml.g.cs
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Razor\Pages\Clients\Edit.cshtml.g.cs
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Razor\Pages\Clients\Index.cshtml.g.cs
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Crud store.RazorTargetAssemblyInfo.cache
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Crud store.RazorTargetAssemblyInfo.cs
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Crud store.Views.pdb
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Crud store.csproj.CopyComplete
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Crud store.dll
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Crud store.pdb
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\Crud store.genruntimeconfig.cache

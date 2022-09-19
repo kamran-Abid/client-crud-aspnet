@@ -1,0 +1,51 @@
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\Crud store.exe
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\site.css
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\favicon.ico
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\js\site.js
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\LICENSE
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\LICENSE.md
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.js
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.min.js
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.min.map
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\LICENSE.txt
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\Crud store.dll
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\Crud store.deps.json
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\Crud store.runtimeconfig.json
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\Crud store.pdb
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\System.Data.SqlClient.dll
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x64\native\sni.dll
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x86\native\sni.dll
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\Crud store.Views.dll
+D:\ZK Space\ASPNET practice\Crud store\obj\Release\netcoreapp3.1\PubTmp\Out\Crud store.Views.pdb
